@@ -1,5 +1,4 @@
 package com.sunjw.util.concurrent;
-
 import java.util.concurrent.Semaphore;
 
 /**
